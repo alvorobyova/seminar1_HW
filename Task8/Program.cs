@@ -1,6 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
-
-Console.WriteLine("В этой программе будем определять четные числа в заданном диапазоне.");
+﻿Console.WriteLine("В этой программе будем определять четные числа в заданном диапазоне.");
 Console.WriteLine("Поехали!");
 
 Console.WriteLine("Введите любое число больше 1");
